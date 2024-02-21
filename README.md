@@ -8,26 +8,26 @@ Here we can found latest Android interview questions and also performance tips w
    val ageList = emptyList<Int>()
    println(nameList===ageList)
 
-   Explaination of singleton class and above code question in below link:
+   Explaination of singleton class and above code question in below link:    
    https://youtu.be/H_BCG0hGhaw
 
 3. Coroutine scope code interview question
    
-   import kotlinx.coroutines.*
-   fun main() = runBlocking{
-   GlobalScope.launch{
-    delay(1000)
-    println("Work1 Finish")
-   }
-   GlobalScope.launch{
-     delay(1000)
-    println("Work2 Finish")
-   }
-     println("Finished Work")
-   
-  }
+   import kotlinx.coroutines.*  
+   fun main() = runBlocking{  
+   GlobalScope.launch{  
+    delay(1000)  
+    println("Work1 Finish")  
+   }  
+   GlobalScope.launch{    
+     delay(1000)  
+    println("Work2 Finish")  
+   }  
+     println("Finished Work")  
+     
+  }  
 
-  Link for above code with explaination :
-  https://youtu.be/gI9ZE5sHLVQ
+  Link for above code with explaination :  
+  https://youtu.be/gI9ZE5sHLVQ  
 
    
