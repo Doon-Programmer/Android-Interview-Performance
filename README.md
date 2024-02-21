@@ -1,4 +1,5 @@
-# Android-Interview-Performance
+                                                # Android-Interview-Questions  
+                                                
 Here we can found latest Android interview questions and also performance tips while developing Android Application
 
 1. How to create singleton class in Kotlin and what is singlton design pattern in programming
@@ -29,5 +30,14 @@ Here we can found latest Android interview questions and also performance tips w
 
   Link for above code with explaination :  
   https://youtu.be/gI9ZE5sHLVQ  
+
+                                                 # GIT INTERVIEW QUESTIONS  
+  What is Git CheeryPick Command:
+  Git command simplifies cherry-picking, allowing you to effortlessly select and apply specific commits from one branch to another. With CheeryPick, managing your project's  
+  history becomes a breeze, whether  you're  fixing bugs, implementing features, or merging changes.  
+  
+  Link for above part :   
+  https://youtu.be/nnfBOXinOVk
+                                                 
 
    
