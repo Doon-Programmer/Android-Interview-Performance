@@ -4,10 +4,10 @@ Here we can found latest Android interview questions and also performance tips w
 
 1. How to create singleton class in Kotlin and what is singlton design pattern in programming
    
-   Code question :
-   val nameList = emptyList<String>()
-   val ageList = emptyList<Int>()
-   println(nameList===ageList)
+   Code question :  
+   val nameList = emptyList<String>()  
+   val ageList = emptyList<Int>()  
+   println(nameList===ageList)  
 
    Explaination of singleton class and above code question in below link:    
    https://youtu.be/H_BCG0hGhaw
